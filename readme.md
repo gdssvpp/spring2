@@ -1,11 +1,11 @@
-# SPRING BOOTSON    
+# Estudo sobre: Spring Boot 2 - Java ☕
 
-## O que é?
+Nesse repositório possui minha jornada aprendendo _Spring Boot_ acompanhando um curso pelo YouTube.
 
-## Como usar?
+## O que é Spring Boot?
 
-## Como montar uma exception?
+## Para que serve o Spring Boot?
 
-## Quais as anotações?
+## Qual a forma de utilizar?
 
-## Como integrar o Banco de Dados?
+## O que eu aprendi durante o curso?
